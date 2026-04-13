@@ -1,0 +1,12 @@
+{
+  "export_job_id": "d0b2316c-804b-4ac2-b420-c31b36fea631",
+  "id_short": 760538,
+  "published_at": "2026-04-13T07:33:04Z",
+  "repo_name": "all-restaurants-in-buena-park-california-us-sample-760538",
+  "sample_asset_name": "beamstation_760538_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/760538/beamstation_760538_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_records": 27,
+  "sample_sha256": "a7cb5fba7bf2f5505adb45cbcbcbb7060e9f892f6fb7b52acc750fbf4efacf33",
+  "sample_size_bytes": 115381,
+  "total_records": 270
+}
