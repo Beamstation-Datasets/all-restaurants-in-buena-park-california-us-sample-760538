@@ -1,6 +1,6 @@
 # All Restaurants in Buena Park, California, US
 
-> Free BeamStation sample export with 27 rows and masked direct-contact fields.
+> Free BeamStation sample export with 26 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `760538` |
 | Location | Buena Park |
 | Category | Restaurants |
-| Full dataset size | 270 records |
-| Free sample size | 27 records (10.0%) |
-| Last export | 2026-04-09T15:28:13.888593+00:00 |
+| Full dataset size | 268 records |
+| Free sample size | 26 records (9.7%) |
+| Last export | 2026-04-16T18:01:17.889222+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-buena-park-california-us-sample-760538/releases/download/sample-latest/beamstation_760538_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
