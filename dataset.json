@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Market-wide restaurant data for Buena Park in West Coast. Covers the local dining market filtered by the Restaurants category group with ratings, review trends, competitive rankings, and market positioning data. Refreshed weekly.",
   "config_name": "All Restaurants in Buena Park, California, US",
-  "export_job_id": "55a726e5-9f15-41f9-bf50-88fdb9bd7e0a",
+  "export_job_id": "695eb7ae-1670-4b8b-bb36-d4078f47f333",
   "github_org": "Beamstation-Datasets",
   "id_short": 760538,
   "location_name": "Buena Park",
   "location_type": "city",
   "repo_name": "all-restaurants-in-buena-park-california-us-sample-760538",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/760538/beamstation_760538_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_pct": 9.8,
+  "sample_pct": 9.69,
   "sample_records": 25,
-  "sample_sha256": "29b9ac24ee0cea70b95e140f2dcbf32e66be12f95084dd5f2643007128b8068f",
-  "sample_size_bytes": 104033,
-  "total_records": 255,
-  "updated_at": "2026-04-23T14:26:43.404024+00:00"
+  "sample_sha256": "6e153fec9ebe04e7350d309007694e86355f01dbd2538050b631a5f2bd421519",
+  "sample_size_bytes": 101517,
+  "total_records": 258,
+  "updated_at": "2026-04-30T14:30:44.815553+00:00"
 }
