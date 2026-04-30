@@ -9,9 +9,9 @@
 | Dataset ID | `760538` |
 | Location | Buena Park |
 | Category | Restaurants |
-| Full dataset size | 255 records |
-| Free sample size | 25 records (9.8%) |
-| Last export | 2026-04-23T14:26:43.404024+00:00 |
+| Full dataset size | 258 records |
+| Free sample size | 25 records (9.69%) |
+| Last export | 2026-04-30T14:30:44.815553+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-buena-park-california-us-sample-760538/releases/download/sample-latest/beamstation_760538_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
